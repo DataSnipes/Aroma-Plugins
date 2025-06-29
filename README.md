@@ -1,2 +1,2 @@
 # Aroma-Plugins
-Plugins For Aroma
+Plugins For Aroma (Wii U Enviroment)
